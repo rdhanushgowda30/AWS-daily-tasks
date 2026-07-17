@@ -218,7 +218,7 @@ Edit the inbound rules.
 
 ### Why Use the EC2 Security Group?
 
-Using the EC2 Security Group as the source ensures that **only EC2 instances associated with that security group can connect to the database**, even if their private IP addresses change.
+Using the EC2 Security Group as the source ensures that **only EC2 instances associated with that security group can connect to the database**, even if  their private IP addresses change.
 
 Verify that:
 
