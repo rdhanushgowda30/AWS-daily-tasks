@@ -7,7 +7,6 @@ This project demonstrates how to build a simple **serverless application** using
 ---
 
 # Objective
-
 - Create an Amazon S3 bucket for file uploads.
 - Create an IAM Role for Lambda execution.
 - Create an AWS Lambda function using Python.
