@@ -163,7 +163,7 @@ http://<Public-IP-1>
 http://<Public-IP-2>
 ```
 
-Each instance should display different content.
+Each instance should  display different content.
 
 ---
 
