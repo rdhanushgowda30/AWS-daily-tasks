@@ -406,7 +406,7 @@ CloudWatch automatically changes the alarm state back to
 OK
 ```
 
-A second email notification is sent indicating the alarm has returned to the OK state.
+A second email  notification is sent indicating the alarm has returned to the OK state.
 
 ---
 
